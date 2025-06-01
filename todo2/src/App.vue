@@ -9,7 +9,7 @@ type Todo = {
 }
 
 const todos = ref<Todo[]>([
-  { id: 1, title: 'первый', completed: false },
+  { id: 1, title: 'первый', completed: false},
   { id: 2, title: 'второй', completed: false },
   { id: 3, title: 'третий', completed: false }
 ]);

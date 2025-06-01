@@ -14,5 +14,7 @@ const props = defineProps<{
 </template>
 
 <style scoped>
-
+li{
+  background: aquamarine;
+}
 </style>
